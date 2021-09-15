@@ -75,7 +75,8 @@ html {
     margin: 20px;
 }
 .registrar-content {
-    width: 50%;
+    width: 15vh;
+
     margin-left: auto;
     margin-right: auto;
 }

@@ -55,6 +55,7 @@ html {
     border-radius: 5px;
     border: 1px solid #dfe1e5 ;
     height: 25px ;
+    cursor: pointer;
 }
 .registro-content select:hover {
     box-shadow: 0 1px 6px 0 #20212447;

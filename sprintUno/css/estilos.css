@@ -96,6 +96,14 @@ html {
     box-shadow: 0 1px 6px 0 #20212447;
     border-color: #dfe1e500;
 }
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+    }
+input[type=number] { -moz-appearance:textfield; }
+
 footer {
     position: fixed;
     bottom: 0%;
